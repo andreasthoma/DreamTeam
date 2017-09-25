@@ -1,5 +1,4 @@
 # DreamTeam
-===============================================
 ![Cornell Tech](images/CT_logo1.png)
 
 Product Studio company challenge at Cornell Tech, Fall 2017
