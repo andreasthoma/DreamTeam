@@ -1,5 +1,7 @@
 # DreamTeam
 ===============================================
+![Cornell Tech](images/CT_logo1.png)
+
 Product Studio company challenge at Cornell Tech, Fall 2017
 How might we make buying online ancillary products more personalized?
 
@@ -20,6 +22,6 @@ The plan is to have milestones achieved on bi-weekly basis. This doesn't limit u
   Final product presentation
   (Sprint 3)
 *11/20
-*  Final presentation
+  Final presentation
 *12/14
   Open studio
