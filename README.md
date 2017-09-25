@@ -2,7 +2,7 @@
 ![Cornell Tech](images/CT_logo1.png)
 
 Product Studio company challenge at Cornell Tech, Fall 2017
-* How might we make buying online ancillary products more personalized?
+* How might we make buying ancillary products more personalized for online customers?
 
 ## Development Process: 
 The plan is to have milestones achieved on bi-weekly basis. This doesn't limit us to meeting on specific days during the week as it should be flexible given our busy schedule. However, it would be easy for us to agree upon a specific date prior to the week we have specific milestone due.
