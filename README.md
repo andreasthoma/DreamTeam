@@ -1,4 +1,5 @@
-### DreamTeam
+# DreamTeam
+===============================================
 Product Studio company challenge at Cornell Tech, Fall 2017
 How might we make buying online ancillary products more personalized?
 
